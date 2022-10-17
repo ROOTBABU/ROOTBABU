@@ -1,5 +1,5 @@
 ### Hi there 👋
-  <img align="right" alt="rootbabu" src="https://github.com/ROOTBABU/ROOTBABU/blob/master/image.png"/>
+  <img align="right" alt="rootbabu" src="https://github.com/ROOTBABU/ROOTBABU/image.png"/>
 
 
 <!--
