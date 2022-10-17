@@ -1,6 +1,4 @@
-### Hi there 👋
-  <img align="right" alt="rootbabu" src="https://github.com/ROOTBABU/ROOTBABU/image.png"/>
-
+<a href="https://discord.gg/UqrZ78gYg3" target="_blank"><img align='center' src='raw.githubusercontent.com/ROOTBABU/ROOTBABU/main/image.png' width='100%'></a>
 
 <!--
 **ROOTBABU/ROOTBABU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
