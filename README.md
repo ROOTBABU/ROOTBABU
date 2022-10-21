@@ -9,7 +9,7 @@
    <a href="https://discord.gg/UqrZ78gYg3" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=25>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://gitter.im/ROOTBABU/community" target="_blank">
     <img src="https://img.shields.io/badge/Gitter-7289DA?color=pink&style=for-the-badge&logo=gitter&logoColor=white" height=25>
   </a>
   <a href="#" target="_blank">
