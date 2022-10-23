@@ -24,3 +24,13 @@
 <div align="left">
   <p>Software developer with over 2 years of experience in the industry. I have worked on a variety of projects, from small web applications to large scale enterprise systems(For <a href="https://www.epsilon.com">Epsilon</a>, <a href="https://www.infoobjects.com/">InfoObjects</a> Companies). I am very excited about the potential of blockchain technology and its ability to revolutionize the way we interact with the world.</p>
 </div>
+</details>
+
+<details>
+<summary>
+  <i>My current status / Goal</i>
+</summary>
+<div align="left">
+  <p>My current goal is to create a solidity programming community. I want to bring together like-minded individuals who are passionate about this programming language and help them grow in their knowledge and skills. This community will be a great resource for everyone involved.  I want to make it easy for new developers to get started with solidity and help them avoid common mistakes.</p>
+</div>
+</details>
