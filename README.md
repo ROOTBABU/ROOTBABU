@@ -22,5 +22,5 @@
   <i>Who am I?</i>
 </summary>
 <div align="left">
-  <p>Software developer with over 2 years of experience in the industry. I have worked on a variety of projects, from small web applications to large scale enterprise systems(For Epsilon, InfoObjects Companies). I am very excited about the potential of blockchain technology and its ability to revolutionize the way we interact with the world.</p>
+  <p>Software developer with over 2 years of experience in the industry. I have worked on a variety of projects, from small web applications to large scale enterprise systems(For <a href="https://www.epsilon.com">Epsilon</a>, <a href="https://www.infoobjects.com/">InfoObjects</a> Companies). I am very excited about the potential of blockchain technology and its ability to revolutionize the way we interact with the world.</p>
 </div>
