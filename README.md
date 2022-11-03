@@ -12,7 +12,7 @@
   <a href="https://gitter.im/ROOTBABU/ROOTBABU.SOL">
     <img src="https://img.shields.io/badge/Gitter-7289DA?color=pink&style=for-the-badge&logo=gitter&logoColor=white" height=25>
   </a>
-  <a href="#">
+  <a href="https://rootbabu.github.io">
     <img src="https://img.shields.io/badge/ROOTBABU.SOL-7289DA?color=purple&style=for-the-badge&logo=solidity&logoColor=white" height=25>
   </a>
 </p>
