@@ -1,4 +1,3 @@
-<a href="https://discord.gg/UqrZ78gYg3"><img align='center' src='https://raw.githubusercontent.com/ROOTBABU/ROOTBABU/main/image.png' width='100%'></a>
 <p>
   <a href="https://www.twitter.com/root_babu">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
