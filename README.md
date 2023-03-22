@@ -30,6 +30,6 @@
   <i>My current status / Goal</i>
 </summary>
 <div align="left">
-  <p>My current goal is to create <a href="https://discord.com/invite/UqrZ78gYg3">a solidity programming community</a>. I want to bring together like-minded individuals who are passionate about this programming language and help them grow in their knowledge and skills. This community will be a great resource for everyone involved.  I want to make it easy for new developers to get started with solidity and help them avoid common mistakes.</p>
+  <p>My current goal is to create <a href="https://discord.com/invite/UqrZ78gYg3">a solidity programming community</a>. I want to bring together like-minded individuals who are passionate about this programming language and help them grow in their knowledge and skills. This community will be a great resource for everyone involved. I want to make it easy for new developers to get started with solidity and help them avoid common mistakes.</p>
 </div>
 </details>
