@@ -8,9 +8,6 @@
    <a href="https://discord.gg/UqrZ78gYg3">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=25>
   </a>
-  <a href="https://gitter.im/ROOTBABU/ROOTBABU.SOL">
-    <img src="https://img.shields.io/badge/Gitter-7289DA?color=pink&style=for-the-badge&logo=gitter&logoColor=white" height=25>
-  </a>
   <a href="https://rootbabu.github.io">
     <img src="https://img.shields.io/badge/ROOTBABU.SOL-7289DA?color=purple&style=for-the-badge&logo=solidity&logoColor=white" height=25>
   </a>
@@ -21,7 +18,7 @@
   <i>Who am I?</i>
 </summary>
 <div align="left">
-  <p>Software developer with over 3 years of experience in the industry. I have worked on a variety of projects, from small web applications to large-scale enterprise systems. I am very excited about the potential of blockchain technology and its ability to revolutionize the way we interact with the world.</p>
+  <p>Full stack developer with over 4+ years of experience in the industry. I have worked on a variety of projects, from small web applications to large-scale enterprise systems. My expertise lies in developing both the front-end and back-end components of software applications, giving me a holistic understanding of the development process.</p>
 </div>
 </details>
 
